@@ -1,0 +1,3 @@
+Employee,ID,Integer,true,true,null
+Employee,email,String,false,true,null
+Employee,name,String,false,true,null
